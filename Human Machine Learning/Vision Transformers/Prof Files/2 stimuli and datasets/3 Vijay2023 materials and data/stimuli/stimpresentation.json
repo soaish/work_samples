@@ -1,0 +1,2122 @@
+{
+  "training": [
+    {
+      "main_stim": "2_6.png",
+      "display_stims": [
+        "2_2.png",
+        "2_5.png"
+      ],
+      "trial_type": "control",
+      "unique_trial_id": "dadff61c-4f8c-4268-bebb-44e81bdb7b38",
+      "base_trial_id": "b12e2755-d997-445b-84a0-de1f46dae3d2",
+      "correct_answer": null,
+      "flipped": false
+    },
+    {
+      "main_stim": "1_2.png",
+      "display_stims": [
+        "1_1.png",
+        "1_5.png"
+      ],
+      "trial_type": "control",
+      "unique_trial_id": "5c6a04b7-1cd3-4645-8d24-61dff12f1c7a",
+      "base_trial_id": "fb9eb424-8a1f-438b-8f04-407c6214131d",
+      "correct_answer": null,
+      "flipped": false
+    },
+    {
+      "main_stim": "2_1.png",
+      "display_stims": [
+        "2_3.png",
+        "2_4.png"
+      ],
+      "trial_type": "experimental",
+      "unique_trial_id": "06dfa7b8-a686-4658-8db1-9b8ef10993ea",
+      "base_trial_id": "4f3e867b-c6b6-42b7-9606-d332ee3136b2",
+      "correct_answer": "left",
+      "flipped": false
+    },
+    {
+      "main_stim": "1_3.png",
+      "display_stims": [
+        "1_4.png",
+        "1_6.png"
+      ],
+      "trial_type": "experimental",
+      "unique_trial_id": "35f871c6-7e79-4edc-a5c6-58222de387e0",
+      "base_trial_id": "56afd80a-78c6-43cd-ae23-3d49847cbcbd",
+      "correct_answer": "left",
+      "flipped": false
+    }
+  ],
+  "experimental": [
+    [
+      {
+        "main_stim": "23_1.png",
+        "display_stims": [
+          "23_5.png",
+          "23_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "218d67ee-b5f6-463f-b8ce-eb9b98085646",
+        "base_trial_id": "16eda734-f585-4694-a7a2-aaeb434aa640",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "30_6.png",
+        "display_stims": [
+          "30_3.png",
+          "30_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "7988564e-da5e-4259-bde7-f47bf3784807",
+        "base_trial_id": "df58d5ec-497f-4816-adb3-ee381598832a",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "8_1.png",
+        "display_stims": [
+          "8_5.png",
+          "8_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "5d7832bb-23b6-4bce-91a8-0fe32e0aa25a",
+        "base_trial_id": "d3c907ee-6901-4d1d-a9bf-cd0348859d34",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "37_6.png",
+        "display_stims": [
+          "37_5.png",
+          "37_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "bf7fca53-8f33-4542-83d4-8871db1f1846",
+        "base_trial_id": "21e573eb-db50-468c-9514-26b95cc7c322",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "21_1.png",
+        "display_stims": [
+          "21_3.png",
+          "21_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "ebcaa439-82f2-4d42-b576-2a69a7bd622d",
+        "base_trial_id": "9e317f48-93dc-4fa5-b4b7-edc95db65388",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "33_3.png",
+        "display_stims": [
+          "33_1.png",
+          "33_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "271c884d-be35-4b24-9484-3fe5339d351e",
+        "base_trial_id": "e01cec1b-f161-4656-be0e-8f3e6dca2553",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "43_4.png",
+        "display_stims": [
+          "43_2.png",
+          "43_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "27bfc13e-e97c-49cc-a4d1-2b194282ece8",
+        "base_trial_id": "d09b40d9-99df-42ce-93e6-3cd0959d53c0",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "40_2.png",
+        "display_stims": [
+          "40_5.png",
+          "40_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "798f804a-04eb-4188-bf83-a6b6fc345606",
+        "base_trial_id": "d76cf37c-486c-4027-b8e7-3348b5cf92d8",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "11_2.png",
+        "display_stims": [
+          "11_3.png",
+          "11_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "eb55dc28-0ff4-49ba-ab79-6cd84d8792ff",
+        "base_trial_id": "51321c08-31c0-41bb-8d02-c5bc427d31ef",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "7_3.png",
+        "display_stims": [
+          "7_5.png",
+          "7_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "2d0af19e-30d3-4388-9f7a-50c317c2efdc",
+        "base_trial_id": "86cff506-a34b-4cc9-a08d-93214597c5a3",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "6_4.png",
+        "display_stims": [
+          "6_1.png",
+          "6_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "37652ecf-a676-4c1d-96cb-c47ed9478fdc",
+        "base_trial_id": "ed0a7b25-437e-4872-8bfe-5827263c4e66",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "23_2.png",
+        "display_stims": [
+          "23_6.png",
+          "23_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "81a4d098-94ba-43d4-9e67-f00e38acb63f",
+        "base_trial_id": "0b2396ce-0279-4ee5-9f4e-349b7590af2f",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "9_2.png",
+        "display_stims": [
+          "9_6.png",
+          "9_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "d7f5a3f8-27ef-4a1d-983c-f715fe630108",
+        "base_trial_id": "2a659f5f-70ce-4824-ad77-632df8a346ba",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "33_5.png",
+        "display_stims": [
+          "33_2.png",
+          "33_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "fc7065cd-f049-400c-963e-f484b8e042cb",
+        "base_trial_id": "9efbb902-2bce-4a6d-8bac-e4eeaaaa4426",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "11_6.png",
+        "display_stims": [
+          "11_4.png",
+          "11_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "993c40c9-cc4b-4f8e-a23c-ca04b33bae88",
+        "base_trial_id": "aebf3d89-96b8-44b7-8385-f20ec247115f",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "15_6.png",
+        "display_stims": [
+          "15_5.png",
+          "15_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "212ac9ec-bc51-43e1-9059-9e63982960c7",
+        "base_trial_id": "0bae266b-d5e7-4f15-8e45-81f5b67ebd82",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "31_4.png",
+        "display_stims": [
+          "31_3.png",
+          "31_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "bee852e5-65b5-44a0-887a-ccab7d34e1a1",
+        "base_trial_id": "03116699-d5d6-41c5-9ee9-85320f5e01d9",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "14_4.png",
+        "display_stims": [
+          "14_6.png",
+          "14_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "d3736242-4488-41ba-9176-0c43e910ced1",
+        "base_trial_id": "4cd77c31-aa47-4e74-8646-db4765f89c29",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "34_4.png",
+        "display_stims": [
+          "34_6.png",
+          "34_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "11abb5bb-d122-444c-8a1a-440b70069790",
+        "base_trial_id": "ef719ff2-5fad-4dda-9109-bb907c7047e0",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "28_2.png",
+        "display_stims": [
+          "28_1.png",
+          "28_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "c103613b-1da1-4bd8-957d-b2e3976ea08a",
+        "base_trial_id": "5abc8c63-0c19-4ed8-971e-38b6774d9761",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "37_4.png",
+        "display_stims": [
+          "37_2.png",
+          "37_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "e88c487a-7678-41e9-8453-dd96cc2ab9dc",
+        "base_trial_id": "f9b1e290-b976-4dbf-8d34-6574732a0c8a",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "40_6.png",
+        "display_stims": [
+          "40_3.png",
+          "40_4.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "a6aef738-3f32-4ee6-9a9b-ae1e1386bd5c",
+        "base_trial_id": "8b540e1a-2b6d-4a70-9660-2e178d58d35c",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "35_5.png",
+        "display_stims": [
+          "35_1.png",
+          "35_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "91ac8f4a-1d0f-4461-b7e1-be675875e66f",
+        "base_trial_id": "b7baa1b3-ad60-4b0e-949c-c58ec0a0c6d1",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "20_4.png",
+        "display_stims": [
+          "20_6.png",
+          "20_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "624f77d6-32d6-4733-8ece-f47ba52736e1",
+        "base_trial_id": "69c8be8a-b371-4618-b533-ed012f67013f",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "18_6.png",
+        "display_stims": [
+          "18_5.png",
+          "18_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "3b58d65c-ee47-497a-a2c4-fa4549c87a09",
+        "base_trial_id": "7a48277d-44e3-456b-a270-2ebfe597e284",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "15_2.png",
+        "display_stims": [
+          "15_4.png",
+          "15_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "e9ecc3dc-ae61-478a-97b5-4aa5efe394d6",
+        "base_trial_id": "9bf29e40-b931-4917-bf6b-96c2e3cfa98a",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "42_2.png",
+        "display_stims": [
+          "42_3.png",
+          "42_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "917d460d-8dcc-4cb6-b1b6-14d34a8cd03e",
+        "base_trial_id": "6b11877b-6efc-4a54-814b-145ac99b2053",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "24_6.png",
+        "display_stims": [
+          "24_1.png",
+          "24_4.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "7fbbf711-7112-46c7-aadd-e03e6934101e",
+        "base_trial_id": "827a7e53-6378-4361-948f-d3998355f310",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "29_4.png",
+        "display_stims": [
+          "29_1.png",
+          "29_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "622f9636-b4d0-4209-b561-edac109f70e9",
+        "base_trial_id": "cac457ad-898c-42b8-b2f1-d392a5486118",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "21_6.png",
+        "display_stims": [
+          "21_2.png",
+          "21_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "0875d9d7-dbab-46fd-bb8b-4f365b2670ed",
+        "base_trial_id": "e0e897f5-ff95-42dc-8a31-a78077316735",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "3_5.png",
+        "display_stims": [
+          "3_4.png",
+          "3_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "400809bc-d1d9-4c02-8d50-d89d5f98e49a",
+        "base_trial_id": "9ee386dd-1e97-4adc-b21a-75752472d700",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "45_5.png",
+        "display_stims": [
+          "45_2.png",
+          "45_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "e966c556-97e5-4f23-a0dc-758f0ab717e8",
+        "base_trial_id": "780710e3-040b-43d3-9229-5a4a443f51c6",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "20_1.png",
+        "display_stims": [
+          "20_5.png",
+          "20_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "306c9aaa-1ed1-4c02-aad5-a4f61a7a8273",
+        "base_trial_id": "40a2389b-9641-4523-8407-b9397baa3d21",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "44_3.png",
+        "display_stims": [
+          "44_2.png",
+          "44_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "05e924c8-2660-4829-94e4-0279810ffdc8",
+        "base_trial_id": "9248b891-a631-41e6-ad98-29e747ec688b",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "19_6.png",
+        "display_stims": [
+          "19_4.png",
+          "19_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "ff0dc0c8-54e7-4022-9699-95dd18aa0da0",
+        "base_trial_id": "849fe613-dc9f-4faf-964e-437ca5398aad",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "17_5.png",
+        "display_stims": [
+          "17_6.png",
+          "17_4.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "cda40f34-4288-4561-abcd-93319d833c58",
+        "base_trial_id": "93fae13e-be45-4b63-ba78-895a7a93f286",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "25_4.png",
+        "display_stims": [
+          "25_1.png",
+          "25_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "9779b746-9c95-46ee-ac74-b559fd6aa42b",
+        "base_trial_id": "bf7f1cb8-cb1b-4940-8872-8babe900106c",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "30_2.png",
+        "display_stims": [
+          "30_4.png",
+          "30_5.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "8735361e-2bc8-4196-924d-f2c7abd4b29a",
+        "base_trial_id": "fca8c62c-d840-4d6c-b8ad-8ff1e184c2ec",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "18_3.png",
+        "display_stims": [
+          "18_4.png",
+          "18_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "c8ca012c-0bc2-4db3-9a1e-3df10cffe3ce",
+        "base_trial_id": "17d44aa7-53e5-4b6f-bd64-86171064700d",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "8_4.png",
+        "display_stims": [
+          "8_2.png",
+          "8_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "9ed68278-ef68-4db2-9ec1-89c2feedc4af",
+        "base_trial_id": "57510410-57ba-4baa-8d26-7384ff5bcfc2",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "36_2.png",
+        "display_stims": [
+          "36_1.png",
+          "36_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "064bc43d-5305-4b21-96c0-56c0a44adb2f",
+        "base_trial_id": "a05c754a-aba6-4aa1-809f-41b4afabac4a",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "10_1.png",
+        "display_stims": [
+          "10_5.png",
+          "10_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "52e8f5b6-fb99-4dee-b7b4-341eb7c5faf4",
+        "base_trial_id": "7b670e3f-a8b7-4d79-be1b-129f34912e61",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "13_2.png",
+        "display_stims": [
+          "13_3.png",
+          "13_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "1aa483a6-42f6-473e-907c-eb0bb9cba884",
+        "base_trial_id": "e2fd313a-6b7e-444a-adca-d68442ab048f",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "12_3.png",
+        "display_stims": [
+          "12_5.png",
+          "12_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "d8670b99-6232-4933-b6cd-3c8a2eeac3fc",
+        "base_trial_id": "9e48cc7c-57f9-4567-89db-1a89e25cd687",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "41_6.png",
+        "display_stims": [
+          "41_3.png",
+          "41_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "a5de5e9d-9ac6-4a4e-ba19-e4589561e8a6",
+        "base_trial_id": "f92f6328-b719-44c0-9dcb-740f9472b5d2",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "24_5.png",
+        "display_stims": [
+          "24_3.png",
+          "24_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "558c43b2-ceeb-43da-b59e-916042c73057",
+        "base_trial_id": "505ab0e2-605a-4a15-9504-b6393391a160",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "10_6.png",
+        "display_stims": [
+          "10_4.png",
+          "10_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "423085b8-4166-4ea1-9e06-ebf5b027b83c",
+        "base_trial_id": "f6427fc5-6682-4c6d-bfab-6436289bcace",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "17_1.png",
+        "display_stims": [
+          "17_3.png",
+          "17_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "0389d4f6-c584-48ae-9c57-988d8a371f35",
+        "base_trial_id": "07e19229-068a-4b0f-a924-b2597e079117",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "6_3.png",
+        "display_stims": [
+          "6_5.png",
+          "6_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "02bece66-b41d-404d-a805-3a08e63749fd",
+        "base_trial_id": "7f1ae820-f51e-47ce-bef5-bac4a105823e",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "31_6.png",
+        "display_stims": [
+          "31_1.png",
+          "31_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "8b9eb705-c0fb-46cc-9c8d-347e137ab4df",
+        "base_trial_id": "fc3d5a4a-5512-48f0-86bd-0bc4ceac35e8",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "41_4.png",
+        "display_stims": [
+          "41_1.png",
+          "41_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "c61ba4ee-71a4-4aae-9ceb-be0c33555b70",
+        "base_trial_id": "5628a232-4c9f-45bf-a063-abea52d8221b",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "42_5.png",
+        "display_stims": [
+          "42_1.png",
+          "42_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "b0df2cfd-4070-4d80-babd-19d6d41feb16",
+        "base_trial_id": "7500e18c-de0a-411a-91d7-cf5ee5ff786c",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "5_4.png",
+        "display_stims": [
+          "5_5.png",
+          "5_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "a413b4cb-1c57-4777-b1bf-03b8d8e570f6",
+        "base_trial_id": "3c32a88e-1619-42a1-ad0b-1db4f03e6f51",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "45_1.png",
+        "display_stims": [
+          "45_3.png",
+          "45_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "2462eda4-d602-431a-b4f9-d9b36510aa53",
+        "base_trial_id": "0fac5cc9-974b-4e2e-8711-330d58fda8c6",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "7_2.png",
+        "display_stims": [
+          "7_4.png",
+          "7_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "2ffafe8a-d56b-490a-9758-f44d8d5edc64",
+        "base_trial_id": "3b3aca07-7222-4a32-ae87-7f86aa4779a4",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "12_2.png",
+        "display_stims": [
+          "12_4.png",
+          "12_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "d3eff8cd-b5e6-48dd-91b4-035a1889a07b",
+        "base_trial_id": "8b394506-cd8d-4b47-a709-c46cea338931",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "14_5.png",
+        "display_stims": [
+          "14_2.png",
+          "14_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "ad130eef-a482-4af7-ac8a-7d9ccfedd880",
+        "base_trial_id": "ad6ae089-57fb-4826-9bb9-713b8c21ad19",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "38_2.png",
+        "display_stims": [
+          "38_4.png",
+          "38_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "a622cc09-b4cf-48d2-93d8-b45a037faff6",
+        "base_trial_id": "f10a7b7c-410c-4f08-bbdf-eb2b480094e3",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "27_5.png",
+        "display_stims": [
+          "27_2.png",
+          "27_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "fda2bee9-eb64-485f-a781-6dad24188a94",
+        "base_trial_id": "a177c3fa-87a3-43b8-8e86-e9d114f1f037",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "32_2.png",
+        "display_stims": [
+          "32_1.png",
+          "32_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "7b5b3485-6e92-428f-ac74-a28539e5cb7e",
+        "base_trial_id": "b2828906-0b1f-4a3f-bc27-0465c72ac0e9",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "36_5.png",
+        "display_stims": [
+          "36_4.png",
+          "36_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "81f467fe-1c4a-41c2-9a14-fbc41293c31e",
+        "base_trial_id": "bb050a76-5acb-491d-b09b-05f7cc9f3d16",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "35_2.png",
+        "display_stims": [
+          "35_6.png",
+          "35_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "14b294d0-7dc5-42bf-84a1-0d4d6f57c919",
+        "base_trial_id": "d97aa205-c6fb-4564-a8b4-a9bad05bcbc6",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "27_3.png",
+        "display_stims": [
+          "27_6.png",
+          "27_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "d2a0e2e2-dab6-4971-a499-d6af1fb8a4ac",
+        "base_trial_id": "67366c7e-d70b-4796-a4f9-6067d83d323f",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "5_1.png",
+        "display_stims": [
+          "5_3.png",
+          "5_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "e2f578fb-92ee-4cd0-85d1-d6ea9ecbb9f6",
+        "base_trial_id": "5385cbd0-e9af-4478-9871-fb80564b9289",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "22_4.png",
+        "display_stims": [
+          "22_1.png",
+          "22_5.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "8765c85e-6e28-4689-a090-fe3a99b35af6",
+        "base_trial_id": "99602ccd-a4d2-483a-971a-0029942210c2",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "44_6.png",
+        "display_stims": [
+          "44_4.png",
+          "44_5.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "259accb6-54f2-4b9e-b948-65d05e869168",
+        "base_trial_id": "00a4c4ca-832f-429a-9916-05ecb82ebd80",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "38_1.png",
+        "display_stims": [
+          "38_5.png",
+          "38_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "ea2d94ea-9be2-49e0-a35e-fcafdba13f1b",
+        "base_trial_id": "f9c86255-8359-4fc8-ab3c-98c6e1784b20",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "43_3.png",
+        "display_stims": [
+          "43_6.png",
+          "43_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "3aa70e85-1857-493f-ad2c-189d30f90116",
+        "base_trial_id": "a8026119-810b-4db6-8ca8-76c694402a58",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "4_5.png",
+        "display_stims": [
+          "4_1.png",
+          "4_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "99246053-536f-4b5d-bc79-7dc338437c9b",
+        "base_trial_id": "02ed960e-0e8c-4151-ab47-1c143312c4df",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "26_4.png",
+        "display_stims": [
+          "26_3.png",
+          "26_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "ba69206e-0b7e-4b9a-922a-2b2c8e8580ff",
+        "base_trial_id": "d25ab7a4-1dfd-48a7-9bc4-bae350dedd21",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "16_4.png",
+        "display_stims": [
+          "16_3.png",
+          "16_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "c3c421d8-7018-4797-b3e0-3a3e54328cea",
+        "base_trial_id": "8e4535f7-6994-47f7-93c0-a2ecd3613941",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "25_3.png",
+        "display_stims": [
+          "25_6.png",
+          "25_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "cd3f2882-03f4-414d-83ff-06c71be9b09e",
+        "base_trial_id": "0a314aec-e0df-4987-a62a-f9d3cb10d789",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "34_3.png",
+        "display_stims": [
+          "34_5.png",
+          "34_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "98a680a5-681e-4809-9d52-8ae09b18757a",
+        "base_trial_id": "9ab36214-de39-406c-aa06-15afea94d3d8",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "22_3.png",
+        "display_stims": [
+          "22_6.png",
+          "22_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "b1d4a1ef-1a23-444f-8a39-575ed3656289",
+        "base_trial_id": "b46ca943-5d2b-44aa-8517-83c5b564a9f3",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "9_4.png",
+        "display_stims": [
+          "9_1.png",
+          "9_5.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "63939e93-9bbd-420b-ad39-50f74a7d9d77",
+        "base_trial_id": "e944470f-8eef-44bb-9cf6-6c2ae21ad997",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "3_6.png",
+        "display_stims": [
+          "3_3.png",
+          "3_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "a0fcf261-182e-44f3-b681-2a6c0a6551e7",
+        "base_trial_id": "7a3c512d-fe7b-4833-877c-736f9c3cd18a",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "4_4.png",
+        "display_stims": [
+          "4_6.png",
+          "4_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "ee0c3347-c725-4be5-b4e3-3c4e66127beb",
+        "base_trial_id": "4a41d52b-4ce9-4078-a95f-6fd8aa68bd0d",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "16_1.png",
+        "display_stims": [
+          "16_2.png",
+          "16_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "d482d540-e646-472d-b33e-213a48397efa",
+        "base_trial_id": "c84d9674-6ce0-4e34-ab92-5cadef7e02ff",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "39_3.png",
+        "display_stims": [
+          "39_6.png",
+          "39_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "b37eb42e-b6c9-4f63-a004-2662506161da",
+        "base_trial_id": "869bb4ff-de2f-4c69-b4f8-65bfa5821c31",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "26_6.png",
+        "display_stims": [
+          "26_5.png",
+          "26_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "0c1a3bea-a11f-4e42-aea9-fbfdc6abe0fa",
+        "base_trial_id": "5fa52c09-315b-46fe-95fd-2a95f6a15837",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "28_4.png",
+        "display_stims": [
+          "28_5.png",
+          "28_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "0071cdd3-a93d-43d8-8a7e-5e9749e6db95",
+        "base_trial_id": "0a815ecd-956c-4d16-9793-49ba763771f7",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "19_5.png",
+        "display_stims": [
+          "19_2.png",
+          "19_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "632ac08b-b756-422c-b926-3b4fe1f62d31",
+        "base_trial_id": "5c50fbf5-8c13-43bc-a0bc-5bf1847350af",
+        "correct_answer": null,
+        "flipped": false
+      },
+      {
+        "main_stim": "29_3.png",
+        "display_stims": [
+          "29_5.png",
+          "29_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "2e7ed229-6050-402e-ad20-8bde712eb6cd",
+        "base_trial_id": "dde98c1f-1753-48f9-996b-eb2bf55a1c83",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "39_5.png",
+        "display_stims": [
+          "39_4.png",
+          "39_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "858a8c38-3ac7-425b-bcb4-ba9b7bd1e077",
+        "base_trial_id": "de7a7738-59d9-4d39-a8c5-f869fd1ec24e",
+        "correct_answer": "right",
+        "flipped": false
+      },
+      {
+        "main_stim": "13_4.png",
+        "display_stims": [
+          "13_5.png",
+          "13_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "f9cc58fb-550c-458e-91d9-c55ba787afa2",
+        "base_trial_id": "6d60991a-5dd7-4717-a84f-c0009ba80b8a",
+        "correct_answer": "left",
+        "flipped": false
+      },
+      {
+        "main_stim": "32_4.png",
+        "display_stims": [
+          "32_5.png",
+          "32_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "82001fb8-f956-40c7-989e-9b4189eae8e3",
+        "base_trial_id": "0494667d-5a5b-4563-b613-8b6c36a5b721",
+        "correct_answer": null,
+        "flipped": false
+      }
+    ],
+    [
+      {
+        "main_stim": "23_3.png",
+        "display_stims": [
+          "23_5.png",
+          "23_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "43349bc1-a5e4-4a6d-b8a1-1add45e84bfa",
+        "base_trial_id": "16eda734-f585-4694-a7a2-aaeb434aa640",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "30_3.png",
+        "display_stims": [
+          "30_6.png",
+          "30_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "746b49e2-0e68-4b1e-93cc-a8fa2c227991",
+        "base_trial_id": "df58d5ec-497f-4816-adb3-ee381598832a",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "8_3.png",
+        "display_stims": [
+          "8_5.png",
+          "8_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "dfa8c70c-b694-4fcd-8b82-4e48b3fd141b",
+        "base_trial_id": "d3c907ee-6901-4d1d-a9bf-cd0348859d34",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "37_5.png",
+        "display_stims": [
+          "37_6.png",
+          "37_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "63962253-7f8f-46d2-9c2c-c5c5366411a2",
+        "base_trial_id": "21e573eb-db50-468c-9514-26b95cc7c322",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "21_3.png",
+        "display_stims": [
+          "21_4.png",
+          "21_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "0c9eb69a-d301-4de5-8dd2-b1a1433cf6e9",
+        "base_trial_id": "9e317f48-93dc-4fa5-b4b7-edc95db65388",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "33_6.png",
+        "display_stims": [
+          "33_1.png",
+          "33_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "04dc6350-2448-47aa-b451-21c576797b3f",
+        "base_trial_id": "e01cec1b-f161-4656-be0e-8f3e6dca2553",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "43_2.png",
+        "display_stims": [
+          "43_4.png",
+          "43_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "0a787751-0b06-4de4-9c26-a8d56e5c3d33",
+        "base_trial_id": "d09b40d9-99df-42ce-93e6-3cd0959d53c0",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "40_1.png",
+        "display_stims": [
+          "40_5.png",
+          "40_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "492e3a76-dd17-4673-a23b-bb58f52aca63",
+        "base_trial_id": "d76cf37c-486c-4027-b8e7-3348b5cf92d8",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "11_3.png",
+        "display_stims": [
+          "11_1.png",
+          "11_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "39bb1df9-4768-4026-b892-7b88b442fd68",
+        "base_trial_id": "51321c08-31c0-41bb-8d02-c5bc427d31ef",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "7_5.png",
+        "display_stims": [
+          "7_3.png",
+          "7_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "72041089-4c63-4df9-9357-02fc89642be6",
+        "base_trial_id": "86cff506-a34b-4cc9-a08d-93214597c5a3",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "6_6.png",
+        "display_stims": [
+          "6_1.png",
+          "6_4.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "3a08d709-f9c6-4a70-a07f-b4f045facc5b",
+        "base_trial_id": "ed0a7b25-437e-4872-8bfe-5827263c4e66",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "23_6.png",
+        "display_stims": [
+          "23_4.png",
+          "23_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "a2b9455a-da42-447b-a049-c8d05130f69e",
+        "base_trial_id": "0b2396ce-0279-4ee5-9f4e-349b7590af2f",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "9_6.png",
+        "display_stims": [
+          "9_2.png",
+          "9_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "4c6241de-2348-43f7-a966-632ced0a9ba6",
+        "base_trial_id": "2a659f5f-70ce-4824-ad77-632df8a346ba",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "33_4.png",
+        "display_stims": [
+          "33_2.png",
+          "33_5.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "bcec37e1-9c5f-4d12-8223-0026d49b59d1",
+        "base_trial_id": "9efbb902-2bce-4a6d-8bac-e4eeaaaa4426",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "11_5.png",
+        "display_stims": [
+          "11_4.png",
+          "11_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "31e28ac9-d501-4283-8222-4855ba64429b",
+        "base_trial_id": "aebf3d89-96b8-44b7-8385-f20ec247115f",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "15_3.png",
+        "display_stims": [
+          "15_6.png",
+          "15_5.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "832e8608-a607-42a4-bcce-890eb2d57078",
+        "base_trial_id": "0bae266b-d5e7-4f15-8e45-81f5b67ebd82",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "31_3.png",
+        "display_stims": [
+          "31_4.png",
+          "31_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "d259afaf-acb3-40a6-ad2f-824b8f40ab16",
+        "base_trial_id": "03116699-d5d6-41c5-9ee9-85320f5e01d9",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "14_3.png",
+        "display_stims": [
+          "14_6.png",
+          "14_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "d7ac61bc-8f32-446e-bd9c-a329954ea6fd",
+        "base_trial_id": "4cd77c31-aa47-4e74-8646-db4765f89c29",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "34_2.png",
+        "display_stims": [
+          "34_6.png",
+          "34_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "8bf73814-a519-46a6-a239-934c19285e87",
+        "base_trial_id": "ef719ff2-5fad-4dda-9109-bb907c7047e0",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "28_6.png",
+        "display_stims": [
+          "28_1.png",
+          "28_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "6c1a2bcb-615b-44ab-85f3-3db33d9578a6",
+        "base_trial_id": "5abc8c63-0c19-4ed8-971e-38b6774d9761",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "37_2.png",
+        "display_stims": [
+          "37_4.png",
+          "37_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "25b2bf1b-6cd2-469f-af8f-55d58d9045a1",
+        "base_trial_id": "f9b1e290-b976-4dbf-8d34-6574732a0c8a",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "40_4.png",
+        "display_stims": [
+          "40_3.png",
+          "40_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "9157a161-2dc8-44a9-87ae-5eeb19ea7a21",
+        "base_trial_id": "8b540e1a-2b6d-4a70-9660-2e178d58d35c",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "35_4.png",
+        "display_stims": [
+          "35_5.png",
+          "35_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "bd0f13e7-e20b-494b-82f3-d2a8be0d5658",
+        "base_trial_id": "b7baa1b3-ad60-4b0e-949c-c58ec0a0c6d1",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "20_2.png",
+        "display_stims": [
+          "20_6.png",
+          "20_4.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "a815cc35-9b3c-41a2-a15d-a930c976ff4b",
+        "base_trial_id": "69c8be8a-b371-4618-b533-ed012f67013f",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "18_5.png",
+        "display_stims": [
+          "18_6.png",
+          "18_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "c5bd06d9-1aae-4f32-97e8-ae4807777c9b",
+        "base_trial_id": "7a48277d-44e3-456b-a270-2ebfe597e284",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "15_4.png",
+        "display_stims": [
+          "15_2.png",
+          "15_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "19c6d35e-0c60-46fe-be1f-8e363e5e7827",
+        "base_trial_id": "9bf29e40-b931-4917-bf6b-96c2e3cfa98a",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "42_4.png",
+        "display_stims": [
+          "42_2.png",
+          "42_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "7b8118f0-5813-4100-acfc-3ffde9c7041c",
+        "base_trial_id": "6b11877b-6efc-4a54-814b-145ac99b2053",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "24_1.png",
+        "display_stims": [
+          "24_6.png",
+          "24_4.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "0e44e6d4-ce8b-4024-bfa1-c727ef1cdcdd",
+        "base_trial_id": "827a7e53-6378-4361-948f-d3998355f310",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "29_1.png",
+        "display_stims": [
+          "29_4.png",
+          "29_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "7b343744-57d0-4f89-80d5-75659e8e278d",
+        "base_trial_id": "cac457ad-898c-42b8-b2f1-d392a5486118",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "21_2.png",
+        "display_stims": [
+          "21_6.png",
+          "21_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "756cf9b0-083b-4eff-a8e4-aa8ddc2d2075",
+        "base_trial_id": "e0e897f5-ff95-42dc-8a31-a78077316735",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "3_2.png",
+        "display_stims": [
+          "3_4.png",
+          "3_5.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "5cb8ff36-faab-4d91-b6d7-d446bc28a360",
+        "base_trial_id": "9ee386dd-1e97-4adc-b21a-75752472d700",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "45_2.png",
+        "display_stims": [
+          "45_5.png",
+          "45_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "a4290032-21e3-4b3b-b6ae-f6ddeef2c351",
+        "base_trial_id": "780710e3-040b-43d3-9229-5a4a443f51c6",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "20_5.png",
+        "display_stims": [
+          "20_1.png",
+          "20_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "bae0b1a2-125f-4073-a021-653da80b482e",
+        "base_trial_id": "40a2389b-9641-4523-8407-b9397baa3d21",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "44_2.png",
+        "display_stims": [
+          "44_3.png",
+          "44_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "65465753-de94-4842-be1c-bfd2b0a53260",
+        "base_trial_id": "9248b891-a631-41e6-ad98-29e747ec688b",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "19_4.png",
+        "display_stims": [
+          "19_1.png",
+          "19_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "3245ec1e-4848-4fad-b06b-310b85b79ab1",
+        "base_trial_id": "849fe613-dc9f-4faf-964e-437ca5398aad",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "17_4.png",
+        "display_stims": [
+          "17_6.png",
+          "17_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "895b7333-58df-4680-addd-327657747deb",
+        "base_trial_id": "93fae13e-be45-4b63-ba78-895a7a93f286",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "25_5.png",
+        "display_stims": [
+          "25_1.png",
+          "25_4.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "89159644-fd96-40d0-ab88-37a117878fcc",
+        "base_trial_id": "bf7f1cb8-cb1b-4940-8872-8babe900106c",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "30_4.png",
+        "display_stims": [
+          "30_2.png",
+          "30_5.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "8218229a-3144-426e-b000-e05c924cc368",
+        "base_trial_id": "fca8c62c-d840-4d6c-b8ad-8ff1e184c2ec",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "18_4.png",
+        "display_stims": [
+          "18_1.png",
+          "18_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "f26fe547-af23-482a-87dd-e188c1dbdada",
+        "base_trial_id": "17d44aa7-53e5-4b6f-bd64-86171064700d",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "8_2.png",
+        "display_stims": [
+          "8_4.png",
+          "8_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "62475afa-22d3-44bc-a8d5-87796db616f8",
+        "base_trial_id": "57510410-57ba-4baa-8d26-7384ff5bcfc2",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "36_1.png",
+        "display_stims": [
+          "36_6.png",
+          "36_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "8929961c-7d43-433e-a48e-0ff07d8b5e81",
+        "base_trial_id": "a05c754a-aba6-4aa1-809f-41b4afabac4a",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "10_3.png",
+        "display_stims": [
+          "10_5.png",
+          "10_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "e910fc35-fcc1-4e2f-9a5a-a30ef35abc7c",
+        "base_trial_id": "7b670e3f-a8b7-4d79-be1b-129f34912e61",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "13_1.png",
+        "display_stims": [
+          "13_3.png",
+          "13_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "4bc03772-5212-43ae-9e6e-4333dd97dc73",
+        "base_trial_id": "e2fd313a-6b7e-444a-adca-d68442ab048f",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "12_5.png",
+        "display_stims": [
+          "12_3.png",
+          "12_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "1689f406-e33f-4674-b772-8e1bf4f8fbff",
+        "base_trial_id": "9e48cc7c-57f9-4567-89db-1a89e25cd687",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "41_3.png",
+        "display_stims": [
+          "41_6.png",
+          "41_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "0a7e39b7-ae82-43d7-ae3c-7123804a4421",
+        "base_trial_id": "f92f6328-b719-44c0-9dcb-740f9472b5d2",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "24_2.png",
+        "display_stims": [
+          "24_5.png",
+          "24_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "8a426630-d115-4417-a22d-ac62f2acfd6b",
+        "base_trial_id": "505ab0e2-605a-4a15-9504-b6393391a160",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "10_4.png",
+        "display_stims": [
+          "10_2.png",
+          "10_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "76afda20-5af8-44a0-be5b-8ff522116fd3",
+        "base_trial_id": "f6427fc5-6682-4c6d-bfab-6436289bcace",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "17_3.png",
+        "display_stims": [
+          "17_1.png",
+          "17_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "bb7d905e-1a4e-43a2-93b7-eaf4ca26b33f",
+        "base_trial_id": "07e19229-068a-4b0f-a924-b2597e079117",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "6_2.png",
+        "display_stims": [
+          "6_5.png",
+          "6_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "81cb1078-61a3-4266-ba30-7c2795f2fe9c",
+        "base_trial_id": "7f1ae820-f51e-47ce-bef5-bac4a105823e",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "31_1.png",
+        "display_stims": [
+          "31_6.png",
+          "31_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "59e1a73f-31bc-419c-81f0-285959c06ab6",
+        "base_trial_id": "fc3d5a4a-5512-48f0-86bd-0bc4ceac35e8",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "41_1.png",
+        "display_stims": [
+          "41_2.png",
+          "41_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "2cda9331-478d-4fe2-99a7-7eaa519b923e",
+        "base_trial_id": "5628a232-4c9f-45bf-a063-abea52d8221b",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "42_6.png",
+        "display_stims": [
+          "42_1.png",
+          "42_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "69389f76-47b6-4c75-a7bf-8969f04bf559",
+        "base_trial_id": "7500e18c-de0a-411a-91d7-cf5ee5ff786c",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "5_5.png",
+        "display_stims": [
+          "5_2.png",
+          "5_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "324aff47-e7cc-4697-9c26-91fa43c7fc56",
+        "base_trial_id": "3c32a88e-1619-42a1-ad0b-1db4f03e6f51",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "45_4.png",
+        "display_stims": [
+          "45_3.png",
+          "45_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "3dc22a27-dfd1-4c2b-ac78-1e03e017b93f",
+        "base_trial_id": "0fac5cc9-974b-4e2e-8711-330d58fda8c6",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "7_6.png",
+        "display_stims": [
+          "7_4.png",
+          "7_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "31a32e3c-c097-488e-9bf3-0c1269ab33b3",
+        "base_trial_id": "3b3aca07-7222-4a32-ae87-7f86aa4779a4",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "12_6.png",
+        "display_stims": [
+          "12_4.png",
+          "12_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "9c9fe6da-f7fc-4f0d-b0ec-acd1d8d7fd54",
+        "base_trial_id": "8b394506-cd8d-4b47-a709-c46cea338931",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "14_2.png",
+        "display_stims": [
+          "14_5.png",
+          "14_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "7b8b3887-22c8-4b71-9833-235f4df19138",
+        "base_trial_id": "ad6ae089-57fb-4826-9bb9-713b8c21ad19",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "38_3.png",
+        "display_stims": [
+          "38_4.png",
+          "38_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "e08077e2-10e2-4a1f-b34c-8ea308239dd9",
+        "base_trial_id": "f10a7b7c-410c-4f08-bbdf-eb2b480094e3",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "27_2.png",
+        "display_stims": [
+          "27_4.png",
+          "27_5.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "5385ad0b-a8cb-4a09-9766-08e55101c25e",
+        "base_trial_id": "a177c3fa-87a3-43b8-8e86-e9d114f1f037",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "32_1.png",
+        "display_stims": [
+          "32_2.png",
+          "32_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "8b7ba3d3-c43c-474a-9645-f1f8defaf9d5",
+        "base_trial_id": "b2828906-0b1f-4a3f-bc27-0465c72ac0e9",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "36_3.png",
+        "display_stims": [
+          "36_4.png",
+          "36_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "f67a935b-6127-4caa-8684-ba7c077ec64a",
+        "base_trial_id": "bb050a76-5acb-491d-b09b-05f7cc9f3d16",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "35_6.png",
+        "display_stims": [
+          "35_2.png",
+          "35_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "794500bf-0736-4a84-adf2-e0cda37c5856",
+        "base_trial_id": "d97aa205-c6fb-4564-a8b4-a9bad05bcbc6",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "27_1.png",
+        "display_stims": [
+          "27_6.png",
+          "27_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "e9ef26fa-57f2-42a5-b002-d4897cbadbbb",
+        "base_trial_id": "67366c7e-d70b-4796-a4f9-6067d83d323f",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "5_6.png",
+        "display_stims": [
+          "5_3.png",
+          "5_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "49237cfc-65fc-41af-a295-2a895b3674f7",
+        "base_trial_id": "5385cbd0-e9af-4478-9871-fb80564b9289",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "22_1.png",
+        "display_stims": [
+          "22_5.png",
+          "22_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "c344ebc4-7812-4cf9-bfb7-2083e5703beb",
+        "base_trial_id": "99602ccd-a4d2-483a-971a-0029942210c2",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "44_5.png",
+        "display_stims": [
+          "44_4.png",
+          "44_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "ef1ad2ef-9156-4c30-be2d-43df14ffd532",
+        "base_trial_id": "00a4c4ca-832f-429a-9916-05ecb82ebd80",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "38_5.png",
+        "display_stims": [
+          "38_1.png",
+          "38_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "5bdc035c-0c91-4254-b3fe-5308c92f42b7",
+        "base_trial_id": "f9c86255-8359-4fc8-ab3c-98c6e1784b20",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "43_1.png",
+        "display_stims": [
+          "43_3.png",
+          "43_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "cedf5ad9-eeef-4a9f-994d-c0e781987330",
+        "base_trial_id": "a8026119-810b-4db6-8ca8-76c694402a58",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "4_3.png",
+        "display_stims": [
+          "4_5.png",
+          "4_1.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "46523c62-9a85-41b0-9f09-160e1ab6f3a4",
+        "base_trial_id": "02ed960e-0e8c-4151-ab47-1c143312c4df",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "26_2.png",
+        "display_stims": [
+          "26_4.png",
+          "26_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "a04eb6e9-58d7-4969-b921-711acd8db05d",
+        "base_trial_id": "d25ab7a4-1dfd-48a7-9bc4-bae350dedd21",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "16_3.png",
+        "display_stims": [
+          "16_4.png",
+          "16_6.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "9519be51-e90e-4585-8cad-12e9082e55ef",
+        "base_trial_id": "8e4535f7-6994-47f7-93c0-a2ecd3613941",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "25_6.png",
+        "display_stims": [
+          "25_3.png",
+          "25_2.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "b9a57045-601c-47da-b824-7a22b9e1b410",
+        "base_trial_id": "0a314aec-e0df-4987-a62a-f9d3cb10d789",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "34_1.png",
+        "display_stims": [
+          "34_5.png",
+          "34_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "4c287be5-b6b1-4261-b0e4-66f21ad0a216",
+        "base_trial_id": "9ab36214-de39-406c-aa06-15afea94d3d8",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "22_2.png",
+        "display_stims": [
+          "22_6.png",
+          "22_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "8b1e5a08-cc8d-4101-a83b-0f8b22fafc63",
+        "base_trial_id": "b46ca943-5d2b-44aa-8517-83c5b564a9f3",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "9_1.png",
+        "display_stims": [
+          "9_4.png",
+          "9_5.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "5a886ced-6330-4d80-aa1e-0a8b5c5825c2",
+        "base_trial_id": "e944470f-8eef-44bb-9cf6-6c2ae21ad997",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "3_3.png",
+        "display_stims": [
+          "3_6.png",
+          "3_1.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "6e478d3d-0eb0-489d-a8d5-207a8934eca2",
+        "base_trial_id": "7a3c512d-fe7b-4833-877c-736f9c3cd18a",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "4_6.png",
+        "display_stims": [
+          "4_4.png",
+          "4_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "77e37899-8db1-4810-8248-b18ac89a9db1",
+        "base_trial_id": "4a41d52b-4ce9-4078-a95f-6fd8aa68bd0d",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "16_2.png",
+        "display_stims": [
+          "16_1.png",
+          "16_5.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "b534a4e4-6a04-45e3-95e8-85c3e1a51118",
+        "base_trial_id": "c84d9674-6ce0-4e34-ab92-5cadef7e02ff",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "39_6.png",
+        "display_stims": [
+          "39_3.png",
+          "39_2.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "c4af2176-43e9-44e1-b5b7-ad1074a9b3b9",
+        "base_trial_id": "869bb4ff-de2f-4c69-b4f8-65bfa5821c31",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "26_1.png",
+        "display_stims": [
+          "26_5.png",
+          "26_6.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "c488dae8-1782-4b3a-afe4-08fbc414618a",
+        "base_trial_id": "5fa52c09-315b-46fe-95fd-2a95f6a15837",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "28_5.png",
+        "display_stims": [
+          "28_3.png",
+          "28_4.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "2739b7b8-2a04-408c-93a3-788c8484b0e3",
+        "base_trial_id": "0a815ecd-956c-4d16-9793-49ba763771f7",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "19_2.png",
+        "display_stims": [
+          "19_5.png",
+          "19_3.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "adcb14fc-dfc8-49e2-890c-fa9596a91357",
+        "base_trial_id": "5c50fbf5-8c13-43bc-a0bc-5bf1847350af",
+        "correct_answer": null,
+        "flipped": true
+      },
+      {
+        "main_stim": "29_5.png",
+        "display_stims": [
+          "29_6.png",
+          "29_3.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "95a9e467-b0f8-42e6-8cca-d243f8115a9f",
+        "base_trial_id": "dde98c1f-1753-48f9-996b-eb2bf55a1c83",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "39_4.png",
+        "display_stims": [
+          "39_1.png",
+          "39_5.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "3cae1373-0c0a-477f-90b7-0c7fe1443179",
+        "base_trial_id": "de7a7738-59d9-4d39-a8c5-f869fd1ec24e",
+        "correct_answer": "right",
+        "flipped": true
+      },
+      {
+        "main_stim": "13_6.png",
+        "display_stims": [
+          "13_4.png",
+          "13_5.png"
+        ],
+        "trial_type": "experimental",
+        "unique_trial_id": "0764eb0a-f480-4235-be82-a55f44d429ed",
+        "base_trial_id": "6d60991a-5dd7-4717-a84f-c0009ba80b8a",
+        "correct_answer": "left",
+        "flipped": true
+      },
+      {
+        "main_stim": "32_3.png",
+        "display_stims": [
+          "32_5.png",
+          "32_4.png"
+        ],
+        "trial_type": "control",
+        "unique_trial_id": "eca5e5b2-2bab-410d-8f3a-8c7b2e5d95f8",
+        "base_trial_id": "0494667d-5a5b-4563-b613-8b6c36a5b721",
+        "correct_answer": null,
+        "flipped": true
+      }
+    ]
+  ]
+}

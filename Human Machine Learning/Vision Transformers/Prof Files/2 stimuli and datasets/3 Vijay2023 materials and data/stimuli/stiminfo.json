@@ -1,0 +1,902 @@
+[
+  {
+    "group_number": 1,
+    "filenames": [
+      "1_1.png",
+      "1_2.png",
+      "1_3.png",
+      "1_4.png",
+      "1_5.png",
+      "1_6.png"
+    ],
+    "correct_image": "1_4.png",
+    "group_index": 0,
+    "ppt_type": "Training",
+    "ppt_label": "1",
+    "paper_category": "Training",
+    "paper_label": "Color",
+    "paper_number": 1,
+    "correct_number": 4,
+    "correct_index": 3
+  },
+  {
+    "group_number": 2,
+    "filenames": [
+      "2_1.png",
+      "2_2.png",
+      "2_3.png",
+      "2_4.png",
+      "2_5.png",
+      "2_6.png"
+    ],
+    "correct_image": "2_3.png",
+    "group_index": 1,
+    "ppt_type": "Training",
+    "ppt_label": "2",
+    "paper_category": "Training",
+    "paper_label": "Orientation",
+    "paper_number": 2,
+    "correct_number": 3,
+    "correct_index": 2
+  },
+  {
+    "group_number": 3,
+    "filenames": [
+      "3_1.png",
+      "3_2.png",
+      "3_3.png",
+      "3_4.png",
+      "3_5.png",
+      "3_6.png"
+    ],
+    "correct_image": "3_4.png",
+    "group_index": 2,
+    "ppt_type": "Topology",
+    "ppt_label": "Holes",
+    "paper_category": "Topology",
+    "paper_label": "Holes",
+    "paper_number": 6,
+    "correct_number": 4,
+    "correct_index": 3
+  },
+  {
+    "group_number": 4,
+    "filenames": [
+      "4_1.png",
+      "4_2.png",
+      "4_3.png",
+      "4_4.png",
+      "4_5.png",
+      "4_6.png"
+    ],
+    "correct_image": "4_1.png",
+    "group_index": 3,
+    "ppt_type": "Topology",
+    "ppt_label": "Inside/Outside",
+    "paper_category": "Topology",
+    "paper_label": "Inside",
+    "paper_number": 3,
+    "correct_number": 1,
+    "correct_index": 0
+  },
+  {
+    "group_number": 5,
+    "filenames": [
+      "5_1.png",
+      "5_2.png",
+      "5_3.png",
+      "5_4.png",
+      "5_5.png",
+      "5_6.png"
+    ],
+    "correct_image": "5_2.png",
+    "group_index": 4,
+    "ppt_type": "Topology",
+    "ppt_label": "Closure",
+    "paper_category": "Topology",
+    "paper_label": "Closure",
+    "paper_number": 4,
+    "correct_number": 2,
+    "correct_index": 1
+  },
+  {
+    "group_number": 6,
+    "filenames": [
+      "6_1.png",
+      "6_2.png",
+      "6_3.png",
+      "6_4.png",
+      "6_5.png",
+      "6_6.png"
+    ],
+    "correct_image": "6_5.png",
+    "group_index": 5,
+    "ppt_type": "Topology",
+    "ppt_label": "Connexity",
+    "paper_category": "Topology",
+    "paper_label": "Connectedness",
+    "paper_number": 5,
+    "correct_number": 5,
+    "correct_index": 4
+  },
+  {
+    "group_number": 7,
+    "filenames": [
+      "7_1.png",
+      "7_2.png",
+      "7_3.png",
+      "7_4.png",
+      "7_5.png",
+      "7_6.png"
+    ],
+    "correct_image": "7_4.png",
+    "group_index": 6,
+    "ppt_type": "Topology",
+    "ppt_label": "Belongs to",
+    "paper_category": "Euclidean geometry",
+    "paper_label": "Alignment of points in lines",
+    "paper_number": 9,
+    "correct_number": 4,
+    "correct_index": 3
+  },
+  {
+    "group_number": 8,
+    "filenames": [
+      "8_1.png",
+      "8_2.png",
+      "8_3.png",
+      "8_4.png",
+      "8_5.png",
+      "8_6.png"
+    ],
+    "correct_image": "8_5.png",
+    "group_index": 7,
+    "ppt_type": "Geometry",
+    "ppt_label": "Line 1",
+    "paper_category": "Euclidean geometry",
+    "paper_label": "Curve",
+    "paper_number": 8,
+    "correct_number": 5,
+    "correct_index": 4
+  },
+  {
+    "group_number": 9,
+    "filenames": [
+      "9_1.png",
+      "9_2.png",
+      "9_3.png",
+      "9_4.png",
+      "9_5.png",
+      "9_6.png"
+    ],
+    "correct_image": "9_5.png",
+    "group_index": 8,
+    "ppt_type": "Geometry",
+    "ppt_label": "Convexity",
+    "paper_category": "Geometrical figures",
+    "paper_label": "Convex shape",
+    "paper_number": 23,
+    "correct_number": 5,
+    "correct_index": 4
+  },
+  {
+    "group_number": 10,
+    "filenames": [
+      "10_1.png",
+      "10_2.png",
+      "10_3.png",
+      "10_4.png",
+      "10_5.png",
+      "10_6.png"
+    ],
+    "correct_image": "10_2.png",
+    "group_index": 9,
+    "ppt_type": "Geometry",
+    "ppt_label": "Line 2",
+    "paper_category": "Euclidean geometry",
+    "paper_label": "Straight line",
+    "paper_number": 7,
+    "correct_number": 2,
+    "correct_index": 1
+  },
+  {
+    "group_number": 11,
+    "filenames": [
+      "11_1.png",
+      "11_2.png",
+      "11_3.png",
+      "11_4.png",
+      "11_5.png",
+      "11_6.png"
+    ],
+    "correct_image": "11_1.png",
+    "group_index": 10,
+    "ppt_type": "Geometry",
+    "ppt_label": "Line 3",
+    "paper_category": "Euclidean geometry",
+    "paper_label": "Alignment of points in lines",
+    "paper_number": 10,
+    "correct_number": 1,
+    "correct_index": 0
+  },
+  {
+    "group_number": 12,
+    "filenames": [
+      "12_1.png",
+      "12_2.png",
+      "12_3.png",
+      "12_4.png",
+      "12_5.png",
+      "12_6.png"
+    ],
+    "correct_image": "12_1.png",
+    "group_index": 11,
+    "ppt_type": "Geometry",
+    "ppt_label": "Quadrilateral",
+    "paper_category": "Geometrical figures",
+    "paper_label": "Quadilateral",
+    "paper_number": 15,
+    "correct_number": 1,
+    "correct_index": 0
+  },
+  {
+    "group_number": 13,
+    "filenames": [
+      "13_1.png",
+      "13_2.png",
+      "13_3.png",
+      "13_4.png",
+      "13_5.png",
+      "13_6.png"
+    ],
+    "correct_image": "13_5.png",
+    "group_index": 12,
+    "ppt_type": "Geometry",
+    "ppt_label": "Right Angle 1",
+    "paper_category": "Geometrical figures",
+    "paper_label": "Right angled triangle",
+    "paper_number": 21,
+    "correct_number": 5,
+    "correct_index": 4
+  },
+  {
+    "group_number": 14,
+    "filenames": [
+      "14_1.png",
+      "14_2.png",
+      "14_3.png",
+      "14_4.png",
+      "14_5.png",
+      "14_6.png"
+    ],
+    "correct_image": "14_6.png",
+    "group_index": 13,
+    "ppt_type": "Geometry",
+    "ppt_label": "Right Angle 2",
+    "paper_category": "Euclidean geometry",
+    "paper_label": "Right angle",
+    "paper_number": 13,
+    "correct_number": 6,
+    "correct_index": 5
+  },
+  {
+    "group_number": 15,
+    "filenames": [
+      "15_1.png",
+      "15_2.png",
+      "15_3.png",
+      "15_4.png",
+      "15_5.png",
+      "15_6.png"
+    ],
+    "correct_image": "15_5.png",
+    "group_index": 14,
+    "ppt_type": "Geometry",
+    "ppt_label": "Right Angle 3",
+    "paper_category": "Euclidean geometry",
+    "paper_label": "Right angle",
+    "paper_number": 14,
+    "correct_number": 5,
+    "correct_index": 4
+  },
+  {
+    "group_number": 16,
+    "filenames": [
+      "16_1.png",
+      "16_2.png",
+      "16_3.png",
+      "16_4.png",
+      "16_5.png",
+      "16_6.png"
+    ],
+    "correct_image": "16_6.png",
+    "group_index": 15,
+    "ppt_type": "Geometry",
+    "ppt_label": "Distance",
+    "paper_category": "Metric properties",
+    "paper_label": "Distance",
+    "paper_number": 31,
+    "correct_number": 6,
+    "correct_index": 5
+  },
+  {
+    "group_number": 17,
+    "filenames": [
+      "17_1.png",
+      "17_2.png",
+      "17_3.png",
+      "17_4.png",
+      "17_5.png",
+      "17_6.png"
+    ],
+    "correct_image": "17_2.png",
+    "group_index": 16,
+    "ppt_type": "Geometry",
+    "ppt_label": "Circle 1",
+    "paper_category": "Geometrical figures",
+    "paper_label": "Circle",
+    "paper_number": 22,
+    "correct_number": 2,
+    "correct_index": 1
+  },
+  {
+    "group_number": 18,
+    "filenames": [
+      "18_1.png",
+      "18_2.png",
+      "18_3.png",
+      "18_4.png",
+      "18_5.png",
+      "18_6.png"
+    ],
+    "correct_image": "18_1.png",
+    "group_index": 17,
+    "ppt_type": "Geometry",
+    "ppt_label": "Circle 2",
+    "paper_category": "Metric properties",
+    "paper_label": "Center of circle",
+    "paper_number": 34,
+    "correct_number": 1,
+    "correct_index": 0
+  },
+  {
+    "group_number": 19,
+    "filenames": [
+      "19_1.png",
+      "19_2.png",
+      "19_3.png",
+      "19_4.png",
+      "19_5.png",
+      "19_6.png"
+    ],
+    "correct_image": "19_1.png",
+    "group_index": 18,
+    "ppt_type": "Geometry",
+    "ppt_label": "Midpoint",
+    "paper_category": "Metric properties",
+    "paper_label": "Middle of segment",
+    "paper_number": 36,
+    "correct_number": 1,
+    "correct_index": 0
+  },
+  {
+    "group_number": 20,
+    "filenames": [
+      "20_1.png",
+      "20_2.png",
+      "20_3.png",
+      "20_4.png",
+      "20_5.png",
+      "20_6.png"
+    ],
+    "correct_image": "20_3.png",
+    "group_index": 19,
+    "ppt_type": "Geometry",
+    "ppt_label": "Equilateral triangle",
+    "paper_category": "Geometrical figures",
+    "paper_label": "Equilateral triangle",
+    "paper_number": 20,
+    "correct_number": 3,
+    "correct_index": 2
+  },
+  {
+    "group_number": 21,
+    "filenames": [
+      "21_1.png",
+      "21_2.png",
+      "21_3.png",
+      "21_4.png",
+      "21_5.png",
+      "21_6.png"
+    ],
+    "correct_image": "21_4.png",
+    "group_index": 20,
+    "ppt_type": "Geometry",
+    "ppt_label": "Proportion 1:3",
+    "paper_category": "Metric properties",
+    "paper_label": "Fixed proportion",
+    "paper_number": 37,
+    "correct_number": 4,
+    "correct_index": 3
+  },
+  {
+    "group_number": 22,
+    "filenames": [
+      "22_1.png",
+      "22_2.png",
+      "22_3.png",
+      "22_4.png",
+      "22_5.png",
+      "22_6.png"
+    ],
+    "correct_image": "22_5.png",
+    "group_index": 21,
+    "ppt_type": "Geometry",
+    "ppt_label": "Diagonals",
+    "paper_category": "Metric properties",
+    "paper_label": "Center of quadilateral",
+    "paper_number": 35,
+    "correct_number": 5,
+    "correct_index": 4
+  },
+  {
+    "group_number": 23,
+    "filenames": [
+      "23_1.png",
+      "23_2.png",
+      "23_3.png",
+      "23_4.png",
+      "23_5.png",
+      "23_6.png"
+    ],
+    "correct_image": "23_4.png",
+    "group_index": 22,
+    "ppt_type": "Geometry",
+    "ppt_label": "Square",
+    "paper_category": "Geometrical figures",
+    "paper_label": "Square",
+    "paper_number": 19,
+    "correct_number": 4,
+    "correct_index": 3
+  },
+  {
+    "group_number": 24,
+    "filenames": [
+      "24_1.png",
+      "24_2.png",
+      "24_3.png",
+      "24_4.png",
+      "24_5.png",
+      "24_6.png"
+    ],
+    "correct_image": "24_3.png",
+    "group_index": 23,
+    "ppt_type": "Geometry",
+    "ppt_label": "Rectangle",
+    "paper_category": "Geometrical figures",
+    "paper_label": "Rectangle",
+    "paper_number": 18,
+    "correct_number": 3,
+    "correct_index": 2
+  },
+  {
+    "group_number": 25,
+    "filenames": [
+      "25_1.png",
+      "25_2.png",
+      "25_3.png",
+      "25_4.png",
+      "25_5.png",
+      "25_6.png"
+    ],
+    "correct_image": "25_2.png",
+    "group_index": 24,
+    "ppt_type": "Geometry",
+    "ppt_label": "Parallelogram",
+    "paper_category": "Geometrical figures",
+    "paper_label": "Parallelogram",
+    "paper_number": 17,
+    "correct_number": 2,
+    "correct_index": 1
+  },
+  {
+    "group_number": 26,
+    "filenames": [
+      "26_1.png",
+      "26_2.png",
+      "26_3.png",
+      "26_4.png",
+      "26_5.png",
+      "26_6.png"
+    ],
+    "correct_image": "26_3.png",
+    "group_index": 25,
+    "ppt_type": "Geometry",
+    "ppt_label": "Trapezoid",
+    "paper_category": "Geometrical figures",
+    "paper_label": "Trapezoid",
+    "paper_number": 16,
+    "correct_number": 3,
+    "correct_index": 2
+  },
+  {
+    "group_number": 27,
+    "filenames": [
+      "27_1.png",
+      "27_2.png",
+      "27_3.png",
+      "27_4.png",
+      "27_5.png",
+      "27_6.png"
+    ],
+    "correct_image": "27_4.png",
+    "group_index": 26,
+    "ppt_type": "Transformation",
+    "ppt_label": "Axial Symmetry (vertical)",
+    "paper_category": "Geometrical transformations",
+    "paper_label": "Vertical symmetry",
+    "paper_number": 42,
+    "correct_number": 4,
+    "correct_index": 3
+  },
+  {
+    "group_number": 28,
+    "filenames": [
+      "28_1.png",
+      "28_2.png",
+      "28_3.png",
+      "28_4.png",
+      "28_5.png",
+      "28_6.png"
+    ],
+    "correct_image": "28_3.png",
+    "group_index": 27,
+    "ppt_type": "Geometry",
+    "ppt_label": "Axial Symmetry (vertical)",
+    "paper_category": "Symmetrical figures",
+    "paper_label": "Vertical axis",
+    "paper_number": 24,
+    "correct_number": 3,
+    "correct_index": 2
+  },
+  {
+    "group_number": 29,
+    "filenames": [
+      "29_1.png",
+      "29_2.png",
+      "29_3.png",
+      "29_4.png",
+      "29_5.png",
+      "29_6.png"
+    ],
+    "correct_image": "29_6.png",
+    "group_index": 28,
+    "ppt_type": "Geometry",
+    "ppt_label": "Axial Symmetry (horizontal)",
+    "paper_category": "Symmetrical figures",
+    "paper_label": "Horizontal axis",
+    "paper_number": 25,
+    "correct_number": 6,
+    "correct_index": 5
+  },
+  {
+    "group_number": 30,
+    "filenames": [
+      "30_1.png",
+      "30_2.png",
+      "30_3.png",
+      "30_4.png",
+      "30_5.png",
+      "30_6.png"
+    ],
+    "correct_image": "30_5.png",
+    "group_index": 29,
+    "ppt_type": "Geometry",
+    "ppt_label": "Axial Symmetry (random axis)",
+    "paper_category": "Symmetrical figures",
+    "paper_label": "Oblique axis",
+    "paper_number": 26,
+    "correct_number": 5,
+    "correct_index": 4
+  },
+  {
+    "group_number": 31,
+    "filenames": [
+      "31_1.png",
+      "31_2.png",
+      "31_3.png",
+      "31_4.png",
+      "31_5.png",
+      "31_6.png"
+    ],
+    "correct_image": "31_2.png",
+    "group_index": 30,
+    "ppt_type": "Transformation",
+    "ppt_label": "Translation",
+    "paper_category": "Geometrical transformations",
+    "paper_label": "Translation",
+    "paper_number": 38,
+    "correct_number": 2,
+    "correct_index": 1
+  },
+  {
+    "group_number": 32,
+    "filenames": [
+      "32_1.png",
+      "32_2.png",
+      "32_3.png",
+      "32_4.png",
+      "32_5.png",
+      "32_6.png"
+    ],
+    "correct_image": "32_6.png",
+    "group_index": 31,
+    "ppt_type": "Transformation",
+    "ppt_label": "Point symmetry",
+    "paper_category": "Geometrical transformations",
+    "paper_label": "Point symmetry",
+    "paper_number": 44,
+    "correct_number": 6,
+    "correct_index": 5
+  },
+  {
+    "group_number": 33,
+    "filenames": [
+      "33_1.png",
+      "33_2.png",
+      "33_3.png",
+      "33_4.png",
+      "33_5.png",
+      "33_6.png"
+    ],
+    "correct_image": "33_2.png",
+    "group_index": 32,
+    "ppt_type": "Transformation",
+    "ppt_label": "Axial Symmetry (horizontal)",
+    "paper_category": "Geometrical transformations",
+    "paper_label": "Horizontal symmetry",
+    "paper_number": 41,
+    "correct_number": 2,
+    "correct_index": 1
+  },
+  {
+    "group_number": 34,
+    "filenames": [
+      "34_1.png",
+      "34_2.png",
+      "34_3.png",
+      "34_4.png",
+      "34_5.png",
+      "34_6.png"
+    ],
+    "correct_image": "34_6.png",
+    "group_index": 33,
+    "ppt_type": "Transformation",
+    "ppt_label": "Rotation",
+    "paper_category": "Geometrical transformations",
+    "paper_label": "Rotation",
+    "paper_number": 45,
+    "correct_number": 6,
+    "correct_index": 5
+  },
+  {
+    "group_number": 35,
+    "filenames": [
+      "35_1.png",
+      "35_2.png",
+      "35_3.png",
+      "35_4.png",
+      "35_5.png",
+      "35_6.png"
+    ],
+    "correct_image": "35_1.png",
+    "group_index": 34,
+    "ppt_type": "Transformation",
+    "ppt_label": "Axial Symmetry (mixed)",
+    "paper_category": "Geometrical transformations",
+    "paper_label": "Oblique symmetry",
+    "paper_number": 43,
+    "correct_number": 1,
+    "correct_index": 0
+  },
+  {
+    "group_number": 36,
+    "filenames": [
+      "36_1.png",
+      "36_2.png",
+      "36_3.png",
+      "36_4.png",
+      "36_5.png",
+      "36_6.png"
+    ],
+    "correct_image": "36_6.png",
+    "group_index": 35,
+    "ppt_type": "Transformation",
+    "ppt_label": "Homothety",
+    "paper_category": "Geometrical transformations",
+    "paper_label": "Homothecy (fixed orientation)",
+    "paper_number": 39,
+    "correct_number": 6,
+    "correct_index": 5
+  },
+  {
+    "group_number": 37,
+    "filenames": [
+      "37_1.png",
+      "37_2.png",
+      "37_3.png",
+      "37_4.png",
+      "37_5.png",
+      "37_6.png"
+    ],
+    "correct_image": "37_3.png",
+    "group_index": 36,
+    "ppt_type": "Geometry",
+    "ppt_label": "Parallels 1",
+    "paper_category": "Euclidean geometry",
+    "paper_label": "Parallel lines",
+    "paper_number": 11,
+    "correct_number": 3,
+    "correct_index": 2
+  },
+  {
+    "group_number": 38,
+    "filenames": [
+      "38_1.png",
+      "38_2.png",
+      "38_3.png",
+      "38_4.png",
+      "38_5.png",
+      "38_6.png"
+    ],
+    "correct_image": "38_6.png",
+    "group_index": 37,
+    "ppt_type": "Geometry",
+    "ppt_label": "Chirality 1",
+    "paper_category": "Chiral figures",
+    "paper_label": "Oblique axis",
+    "paper_number": 29,
+    "correct_number": 6,
+    "correct_index": 5
+  },
+  {
+    "group_number": 39,
+    "filenames": [
+      "39_1.png",
+      "39_2.png",
+      "39_3.png",
+      "39_4.png",
+      "39_5.png",
+      "39_6.png"
+    ],
+    "correct_image": "39_1.png",
+    "group_index": 38,
+    "ppt_type": "Geometry",
+    "ppt_label": "Proportions",
+    "paper_category": "Geometrical transformations",
+    "paper_label": "Homothecy (fixed size)",
+    "paper_number": 40,
+    "correct_number": 1,
+    "correct_index": 0
+  },
+  {
+    "group_number": 40,
+    "filenames": [
+      "40_1.png",
+      "40_2.png",
+      "40_3.png",
+      "40_4.png",
+      "40_5.png",
+      "40_6.png"
+    ],
+    "correct_image": "40_5.png",
+    "group_index": 39,
+    "ppt_type": "Geometry",
+    "ppt_label": "Parallels 2",
+    "paper_category": "Euclidean geometry",
+    "paper_label": "Secant lines",
+    "paper_number": 12,
+    "correct_number": 5,
+    "correct_index": 4
+  },
+  {
+    "group_number": 41,
+    "filenames": [
+      "41_1.png",
+      "41_2.png",
+      "41_3.png",
+      "41_4.png",
+      "41_5.png",
+      "41_6.png"
+    ],
+    "correct_image": "41_2.png",
+    "group_index": 40,
+    "ppt_type": "Geometry",
+    "ppt_label": "Chirality 2",
+    "paper_category": "Chiral figures",
+    "paper_label": "Vertical axis",
+    "paper_number": 27,
+    "correct_number": 2,
+    "correct_index": 1
+  },
+  {
+    "group_number": 42,
+    "filenames": [
+      "42_1.png",
+      "42_2.png",
+      "42_3.png",
+      "42_4.png",
+      "42_5.png",
+      "42_6.png"
+    ],
+    "correct_image": "42_3.png",
+    "group_index": 41,
+    "ppt_type": "Geometry",
+    "ppt_label": "Chirality 3",
+    "paper_category": "Chiral figures",
+    "paper_label": "Vertical axis",
+    "paper_number": 28,
+    "correct_number": 3,
+    "correct_index": 2
+  },
+  {
+    "group_number": 43,
+    "filenames": [
+      "43_1.png",
+      "43_2.png",
+      "43_3.png",
+      "43_4.png",
+      "43_5.png",
+      "43_6.png"
+    ],
+    "correct_image": "43_6.png",
+    "group_index": 42,
+    "ppt_type": "Series",
+    "ppt_label": "Arithmetic",
+    "paper_category": "Metric properties",
+    "paper_label": "Equidistance",
+    "paper_number": 32,
+    "correct_number": 6,
+    "correct_index": 5
+  },
+  {
+    "group_number": 44,
+    "filenames": [
+      "44_1.png",
+      "44_2.png",
+      "44_3.png",
+      "44_4.png",
+      "44_5.png",
+      "44_6.png"
+    ],
+    "correct_image": "44_4.png",
+    "group_index": 43,
+    "ppt_type": "Geometry",
+    "ppt_label": "Chirality 4",
+    "paper_category": "Chiral figures",
+    "paper_label": "Oblique axis",
+    "paper_number": 30,
+    "correct_number": 4,
+    "correct_index": 3
+  },
+  {
+    "group_number": 45,
+    "filenames": [
+      "45_1.png",
+      "45_2.png",
+      "45_3.png",
+      "45_4.png",
+      "45_5.png",
+      "45_6.png"
+    ],
+    "correct_image": "45_3.png",
+    "group_index": 44,
+    "ppt_type": "Series",
+    "ppt_label": "Geometric",
+    "paper_category": "Metric properties",
+    "paper_label": "Increasing distance",
+    "paper_number": 33,
+    "correct_number": 3,
+    "correct_index": 2
+  }
+]

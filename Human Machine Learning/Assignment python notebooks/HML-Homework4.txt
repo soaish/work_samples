@@ -1,0 +1,196 @@
+HML: Homework4 – Neural Networks
+
+Part 1
+
+1. Calculate the output values at h1, h2, and o1 of this network for input x1 = 1, x2 = 0. Bias term x0 = 1. Then calculate one step of back propagation, for the same input and target output t = 1 for o1. Compute updated weights for the 3 connections into output layer, and then for the 6 connections into the hidden layer. There should be 9 updated weights in total.
+ans - 
+
+a. Weight calculation
+
+    The weights are - wh2x0 = 2, wh2x1 = -1.5, wh2x2 = 3, wh1x0 = 1.5, wh1x1 = -2.5, wh1x2 = 1, wo1x0 = -1, wo1h1 = 1, wo1h2 = 0.5 and the values of bias i.e. x0 = 1, and x1 = 1 and x2 = 0.
+    The output value at h1 = summation of w_ix_i where i = 0 to N.
+    that is summation of these values = wh1x0 * x0 = 1.5 * 1 = 1.5, wh1x1 * x1 = -2.5 * 1 = -2.5, wh1x2 * x2 = 1 * 0 = 0
+    = 1.5 + (-2.5) + 0
+    = -1
+    Now, applying the activation function to the value (-1), activation function is a sigmoid = 1 / 1 + e ^ -x
+    i.e. = 1 / 1 + e ^ -(-1) = 1 / 1 + e = 1 / 1 + 2.7 ~ 0.27
+
+    The output value at h2 = summation of w_ix_i where i = 0 to N.
+    that is summation of these values = wh2x0 * x0 = 2 * 1 = 2, wh2x1 * x1 = -1.5 * 1 = -1.5, wh2x2 * x2 = 3 * 0 = 0
+    = 2 + (-1.5) + 0
+    = 0.5
+    Now, applying the activation function to the value (0.5), activation function is a sigmoid = 1 / 1 + e ^ -x
+    i.e. = 1 / 1 + e ^ -(0.5) =  1 / 1 + 0.61 ~ 0.62
+
+    The output value at 01 = summation of w_ix_i where i = 0 to N.
+    that is summation of these values = wo1x0 * x0 = -1 * 1 = -1, wo1h1 * h1 = 1 * 0.27 = 0.27, wo1h2 * h2 = 0.5 * 0.65 = 0.32
+    = -1 + 0.27 + 0.32
+    = -0.41
+    Now, applying the activation function to the value (0.5), activation function is a sigmoid = 1 / 1 + e ^ -x
+    i.e. = 1 / 1 + e ^ -(-0.41) ~ 0.39
+
+    Hence, the approximate output values at h1, h2, and o1 are 0.27, 0.62, 0.39 (reduced to the second decimal place).
+
+    The loss calculation for target output t = 1 is defined as 1/n summation of differences between target and output. So, in our case, the Loss is:
+    = L1 = t − o1 = 1−0.39 ~ 0.61
+
+b. Back propagation:
+    The error calculation Delta at output node = derivation of activation function * loss
+    Delta = sigma(x) * (1 - sigma(x)) * (t1 - o1) where sigma(x) is out activation function and (t1 - o1) is the loss
+    = sigma(x) * (1 - sigma(x)) * 0.61
+    = 0.39 * (1 - 0.39) * 0.61, because sigma(x) is the value we received at output o1
+    ~ 0.1451
+
+    Now, we update the weights to the output layer by incorporating the error:
+    w <- w + Delta is the new weight
+    wo1x0' = wo1x0 + delta of wo1x0 = −1 + learning rate * Delta at output node * x0 = -1 + 0.5 * 0.1451 * 1 = -0.92
+    wo1h1' = wo1h1 + delta of wo1h1 = 1 + learning rate * Delta at output node * h1 = 1 + 0.5 * 0.1451 * 0.27 = 1.0195
+    wo1h2' = wo1h2 + delta of wo1h2 = 0.5 + learning rate * Delta at output node * h2 = 0.5 + 0.5 * 0.1451 * 0.62 = 0.5449
+
+    The error calculation at hidden layers = derivation of activation function * summation of wk,h * delta_k where k belongs to OUT as shown in class slides
+    for h1 - 
+    delta_h1 = h1(1-h1) * Delta_o1 * wo1h1 = 0.27(1-0.27) * 0.1451 * 1 ~ 0.028
+
+    for h2 - 
+    delta_h2 = h2(1-h2) * Delta_o1 * wo1h2 = 0.62(1-0.62) * 0.1451 * 0.5 ~ 0.0171
+
+    Now, we update the weights for hidden layers by incorporating the error:
+
+    wh1x0' = wh1x0 + delta = 1.5 + learning rate * Delta at h1 node * x0 = 1.5 + 0.5 * 0.028 * 1 = 1.514
+    wh1x1' = wh1x1 + delta = -2.5 + learning rate * Delta at h1 node * x1 = -2.5 + 0.5 * 0.028 * 1 = -2.486
+    wh1x2' = wh1x2 + delta = 1 + learning rate * Delta at h1 node * x2 = 1 + 0.5 * 0.028 * 0 = 1 + 0 = 1 
+
+    wh2x0' = wh2x0 + delta = 2 + learning rate * Delta at h2 node * x0 = 2 + 0.5 * 0.0171 * 1 = 2.00855
+    wh2x1' = wh2x1 + delta = -1.5 + learning rate * Delta at h2 node * x1 = -1.5 + 0.5 * 0.0171 * 1 = -1.49145
+    wh2x2' = wh2x2 + delta = 3 + learning rate * Delta at h2 node * x2 = 3 + 0.5 * 0.0171 * 0 = 3
+
+
+Part 2
+
+1. What were the final weights and biases for your network? How well did it do?
+ans - 
+Below is the output after tweaking the epoch count - 
+
+[('0.weight', Parameter containing:
+tensor([[-7.4787, -7.4792], [-8.8528, -8.8541]], requires_grad=True)), 
+
+('0.bias', Parameter containing:
+tensor([11.1868,  3.9412], requires_grad=True)), 
+
+('2.weight', Parameter containing:
+tensor([[ 19.7294, -20.0986]], requires_grad=True)), 
+
+('2.bias', Parameter containing:
+tensor([-9.5642], requires_grad=True))]
+
+Model - 
+Sequential(
+  (0): Linear(in_features=2, out_features=2, bias=True)
+  (1): Sigmoid()
+  (2): Linear(in_features=2, out_features=1, bias=True)
+  (3): Sigmoid()
+)
+
+For the Python output above, the weights are - 
+# Layer 0.weight
+w_h1_x1 = -7.4787
+w_h1_x2 = -7.4792
+
+# Layer 0.bias
+w_h2_x1 = -8.8528
+w_h2_x2 = -8.8541
+
+# Layer 2.weight
+w_h1_x0 = 11.1868
+w_h2_x0 = 3.9412
+
+# Layer 2.bias
+w_o_0 = -9.5642
+w_o_1 = 19.7294
+w_o_2 = -20.0986
+
+The model seems to have performed well. 
+The number of epoch was increased from the default value and i could see an increase from 0.9995 accuracy to almost 0.9999 for the xor (0, 1) case which is 1 as our target value.
+In the other case of XOR (1, 1), the answer we expect is 0 but after 5000 epoch training, we get as close as = 0.0001. After trying to increase the epoch size to even double, these values do not seem to increase.
+
+
+2. Using the weights and biases for your network, calculate the
+predictions for each for the four input-output combinations in the XOR
+truth table (you can find this in the slides or write it down
+yourself). You may do this manually or using code (looping, making
+functions, etc.), but do not use the trained model to do so.
+
+  To make this easier, here is a function that calculates the sigmoid
+  of an input vector.
+
+  ```python
+  import numpy as np
+
+  def sigmoid(x):
+    return 1 / (1 + np.exp(-x))
+  ```
+ans -
+Getting values with sigmoid activation function for XOR with 0 and 1 values as in traditionally
+Input: (0 0) -> XOR Output: 0, expected value - 0
+Input: (0, 1) -> XOR Output: 1, expected value - 1
+Input: (1, 0) -> XOR Output: 1, expected value - 1
+Input: (1, 1) -> XOR Output: 0, expected value - 0
+
+Helper function added to check the values - 
+import numpy as np
+
+def sigmoid(x):
+    return 1 / (1 + np.exp(-x))
+
+W0 = np.array([[-7.4787, -7.4792], [-8.8528, -8.8541]])
+b0 = np.array([11.1868, 3.9412])
+W2 = np.array([[19.7294, -20.0986]])
+b2 = np.array([-9.5642])
+
+inputs = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
+
+def predict(inputs):
+    layer0_output = np.dot(inputs, W0.T) + b0
+    layer0_output = sigmoid(layer0_output)
+    layer2_output = np.dot(layer0_output, W2.T) + b2
+    final_output = sigmoid(layer2_output)
+    return final_output
+
+predictions = predict(inputs)
+rounded_predictions = np.round(predictions)
+
+for i, (input_combination, prediction) in enumerate(zip(inputs, rounded_predictions)):
+    print(f"Input: {tuple(input_combination)}, XOR Output: {int(prediction)}")
+
+
+3. Conduct an analysis of the weights and biases of the network you have just trained. 
+Why does it compute the XOR function? See if you can interpret the neural networks as a combination of simpler logical functions such as OR and AND, 
+or outline a different insight regarding the behavior of the network. Be creative and extensive here!
+ans - The weights are as mentioned in the above questions - 
+W0 = np.array([[-7.4787, -7.4792], [-8.8528, -8.8541]])
+b0 = np.array([11.1868, 3.9412])
+W2 = np.array([[19.7294, -20.0986]])
+b2 = np.array([-9.5642])
+
+The weights of layer 0 are negative, this means, the neurons will only be activated with certain inputs of x1 and x2. The first hidden layer h1 can be seen as implementing 
+something similar to the NOT AND function, since it will output true for all combinations except when both inputs are true. The activation function in turn just helps standardize the output values between 0 and 1 for better understanding.
+
+in this case, if we see the layer W2's weights, we see one that one is very positive and one is very negative, this is helping our complex XOR function
+be sensitive to different cases. Because of this, XOR calculations of different values ends up being penalized and 0 whereas same values is not penalised.
+Additionally, in the cases of same values, like 0, 0, we see the calculations of h1 and h2 and o are like these
+h1 - 0.9999861442999742, h2 - 0.9809452456394838, o - 7.114641454479416e-05. Whereas, in the case of different numbers like - 0, 1, we see the values are like - 
+h1 - 0.9760512741967798, h2 - 0.0072974941917869586, o - 0.9999285210869288. The difference is, same values end up in high h1 and h2 and different values
+end up in different h1 and h2, based on the weights we give to h1 and h2, the layer b0, biases for h1 and h2, h1 is more preferred and hence output is higher.
+
+We can indeed interpret it as a OR AND functions if we see the output layer which is a weighted sum layer followed by a transformation. 
+In case of different values, we can see the XOR behaves similar to the OR function, if one of the output of hidden layer is closer to 1, the output is closer to 1.
+This is the case for 0, 1 - h1 - 0.9760512741967798, h2 - 0.0072974941917869586, o - 0.9999285210869288. 0 and 1 both values contribute to the values h1 and h2
+the weights of layer 0 and the bias term for h1 outputs a number closer to 1 whereas the same output a number closer to 0.
+
+An example quoted from Mitchell's neural nets book - "If we assume boolean values of 1 (true) and -1 (false), then one way to
+use a two-input perceptron to implement the AND function is to set the weights wo = -8, and wl = wz = .5 and to determine it as an Or function, 
+we alter wo = -.3." We see, the weights for our layer w2 are similar to this example, 19.7294, -20.0986. So, this neural net behaves indeed like an AND and OR function.
+Essentially, the second layer combines the outputs of the previous layer, emphasizes the effect of differing inputs and marginalizes outputs when both inputs are the same.
+
+
+
